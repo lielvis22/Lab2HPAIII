@@ -1,0 +1,7 @@
+C:\Users\lielv\source\repos\LibroCalificacionesModificadores\LibroCalificacionesModificadores\bin\Debug\LibroCalificacionesModificadores.exe.config
+C:\Users\lielv\source\repos\LibroCalificacionesModificadores\LibroCalificacionesModificadores\bin\Debug\LibroCalificacionesModificadores.exe
+C:\Users\lielv\source\repos\LibroCalificacionesModificadores\LibroCalificacionesModificadores\bin\Debug\LibroCalificacionesModificadores.pdb
+C:\Users\lielv\source\repos\LibroCalificacionesModificadores\LibroCalificacionesModificadores\obj\Debug\LibroCalificacionesModificadores.csproj.AssemblyReference.cache
+C:\Users\lielv\source\repos\LibroCalificacionesModificadores\LibroCalificacionesModificadores\obj\Debug\LibroCalificacionesModificadores.csproj.CoreCompileInputs.cache
+C:\Users\lielv\source\repos\LibroCalificacionesModificadores\LibroCalificacionesModificadores\obj\Debug\LibroCalificacionesModificadores.exe
+C:\Users\lielv\source\repos\LibroCalificacionesModificadores\LibroCalificacionesModificadores\obj\Debug\LibroCalificacionesModificadores.pdb
