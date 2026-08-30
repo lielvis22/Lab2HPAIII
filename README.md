@@ -3,6 +3,7 @@
 **Universidad Tecnológica**
 **Facultad de Ingeniería en Sistemas — Campus Víctor Levis Sasso**
 **Herramientas de Programación Aplicada III (.Net)**
+---
  **Fecha límite de entrega:** 31 de agosto de 2026 — II Semestre 2026
  **Instructor:** Ing. Irina Fong
  **Grupo:** 1IL133
