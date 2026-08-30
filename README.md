@@ -56,6 +56,5 @@ Modelado de Clases y Gestión de Atributos mediante Propiedades en C#
 
 - Visual Studio 2026, C#
 - Guía del Laboratorio #2
-
 ---
-*Elaborado por: Ing. Irina Fong*
+
