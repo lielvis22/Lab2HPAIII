@@ -1,18 +1,20 @@
 # Lab2HPAIII — Laboratorio #2: Clases en C#
 
-**Universidad Tecnológica**
+**Universidad Tecnológica de Panamá (UTP)**
 **Facultad de Ingeniería en Sistemas — Campus Víctor Levis Sasso**
 **Herramientas de Programación Aplicada III (.Net)**
+
 ---
- **Fecha límite de entrega:** 31 de agosto de 2026 — II Semestre 2026
- **Instructor:** Ing. Irina Fong
- **Grupo:** 1IL133
+
+📅 **Fecha límite de entrega:** 31 de agosto de 2026 — II Semestre 2026
+👩‍🏫 **Instructor:** Ing. Irina Fong
+🧑‍🤝‍🧑 **Grupo:** 1IL133
 
 ## 📌 Título de la Experiencia
 
 Modelado de Clases y Gestión de Atributos mediante Propiedades en C#
 
-## Objetivos
+## 🎯 Objetivos
 
 - Comprender y aplicar la estructura básica de una aplicación de consola en C#, identificando el funcionamiento del método `Main` como punto de entrada de la ejecución.
 - Diseñar y programar clases en C# siguiendo las convenciones de nomenclatura estándar (`PascalCase`) y los diagramas de clases UML.
@@ -21,7 +23,7 @@ Modelado de Clases y Gestión de Atributos mediante Propiedades en C#
 - Manejar variables de instancia y propiedades para asegurar una correcta manipulación y persistencia de los atributos en los objetos.
 - Comprender y aplicar los descriptores de acceso `get` y `set` en las propiedades.
 
-## Estructura del Repositorio
+## 📁 Contenido del Repositorio
 
 | Carpeta | Descripción |
 |---|---|
@@ -29,7 +31,7 @@ Modelado de Clases y Gestión de Atributos mediante Propiedades en C#
 | [`LibroCalificaciones_2`](./LibroCalificaciones_2) | **Actividad 2** — Clase `MiLibroCalificaciones` con el método `MostrarMensaje(string nombreCurso)`, que ahora recibe un parámetro para personalizar el mensaje según el curso ingresado por el usuario. |
 | [`LibroCalificacionesModificadores`](./LibroCalificacionesModificadores) | **Actividad 3** — Clase `LibroCalificaciones` con una variable de instancia privada `nombreCurso` y una propiedad pública `NombreCurso` (con `get`/`set`) que la encapsula, aplicando el principio de ocultamiento de información. |
 
-## Conceptos Clave Aplicados
+## 🧠 Conceptos Clave Aplicados
 
 - **Estructura de un programa por consola:** organización del proyecto y el método `Main` como punto de entrada automático.
 - **`Console` y compilación:** uso de `Console.WriteLine`, `Console.ReadLine` y marcadores de posición (`{0}`, `{1}`, ...) para interpolar valores en el texto.
@@ -38,24 +40,49 @@ Modelado de Clases y Gestión de Atributos mediante Propiedades en C#
 - **Encapsulamiento:** uso de campos privados (variables de instancia) y propiedades públicas para un acceso controlado y seguro a los datos.
 - **Modificadores de acceso:** diferencias entre `public` y `private`.
 
-## Requisitos
+## 🛠️ Tecnologías Utilizadas
 
-- Visual Studio 2026
-- .NET 10.0 (Compatibilidad a largo plazo)
-- Lenguaje: C#
+- Lenguaje: **C#**
+- Framework: **.NET 10.0** (Compatibilidad a largo plazo)
+- Entorno de desarrollo: **Visual Studio 2026**
+- Control de versiones: **Git / GitHub**
 
-## Cómo ejecutar
+## 🖥️ Capturas de Pantalla y Problemas
+
+> *(Insertar aquí las capturas de la consola de salida de cada actividad)*
+
+- **Actividad 1 — LibroCalificaciones_1:** captura mostrando el mensaje de bienvenida impreso al instanciar `LibroCalificacion` y llamar a `MostrarMensaje()`.
+- **Actividad 2 — LibroCalificaciones_2:** captura mostrando el ingreso del nombre del curso por teclado y el mensaje personalizado generado con el parámetro `nombreCurso`.
+- **Actividad 3 — LibroCalificacionesModificadores:** captura mostrando la creación de dos objetos `LibroCalificaciones` con distintos cursos y el uso de la propiedad `NombreCurso` (get/set) para leer y modificar el valor.
+
+## 📂 Estructura de Carpetas o Directorios
+
+```
+Lab2HPAIII/
+├── LibroCalificaciones_1/              # Actividad 1: clase y método sin parámetros
+├── LibroCalificaciones_2/              # Actividad 2: método con parámetro
+├── LibroCalificacionesModificadores/   # Actividad 3: variables de instancia y propiedades
+└── README.md                           # Documentación del proyecto
+```
+
+## ▶️ Instrucciones de Ejecución / Uso
 
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/lielvis22/Lab2HPAIII.git
    ```
-2. Abrir la solución deseada (`.sln`) en Visual Studio.
+2. Abrir la solución deseada (`.sln`) en Visual Studio 2026.
 3. Compilar y ejecutar (`F5` o `Ctrl+F5`).
+4. Seguir las instrucciones en consola (ingreso del nombre del curso, según la actividad).
 
-## Recursos
+## 👤 Autor y Contexto
+
+- **Nombre:** _Elvis Li_
+- **Institución:** Universidad Tecnológica de Panamá (UTP)
+- **Grupo:** 1IL133
+- **Fecha de Realización:** _31/08/2026_
+
+## 📚 Referencias
 
 - Visual Studio 2026, C#
-- Guía del Laboratorio #2
----
-
+- Guía del Laboratorio #2: Clases en C# (Ing. Irina Fong)
